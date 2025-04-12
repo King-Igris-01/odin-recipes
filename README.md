@@ -1,2 +1,2 @@
 # odin-recipes
-Creating recipe pages for the interet and people alike...
+Creating recipe pages to help people find their recipes a bit faster🦦
